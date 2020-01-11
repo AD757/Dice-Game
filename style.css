@@ -173,3 +173,18 @@ i {
 .winner { background-color: #f7f7f7; }
 .winner .player-name { font-weight: 300; color: #FF5023; }
 
+
+/* Media Queries */
+/*@media(max-width: 768px){ .dice,
+    .final-score, .player-0-panel, .player-1-panel
+    .player-name, .player-current-box, .player-current-label, .player-current-score,
+    button, .btn-new, .btn-hold, .btn-roll, .winner, .player-name {
+      float:left;
+      text-align:center;
+      width:100%;
+      display: block;
+    }
+ 
+} 
+
+  

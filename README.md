@@ -12,6 +12,10 @@ A simple dice game with following rules.
 
 4) The score is PREDEFINED to 100. An input field "Final Score" where players can set the winning score, so that they can change the predefined score of 100.
 
+
+### Demo
+![](demo.gif)
+
 ### Credit
 Icon made by Freepik from www.flaticon.com
 
