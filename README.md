@@ -1,7 +1,7 @@
 # DICE Game
 
 ## Introduction
-A simple dice game with following rules. 
+A dice based game. Built in HTML, CSS and JavaScript. This game is fully in Javascript and uses some sprite images. You can simply use any kind of code editor for this project. This game is in 2D format with following rules. 
 
 ### Game rules
 1) The game has 2 players, playing in rounds. In each turn, a player rolls two dices as many times as he whishes. Each result get added to his ROUND score.
